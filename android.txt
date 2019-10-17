@@ -1,0 +1,3 @@
+title=Kivy Knowledge Client
+author=Tang Can
+orientation=vertical
